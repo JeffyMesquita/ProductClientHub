@@ -76,4 +76,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais de
 
 ---
 
-Feito com ♥ por [Seu Nome] 😊
+Feito com ♥ por [JeffyMesquita](https://jeffymesquita.dev) 😊
